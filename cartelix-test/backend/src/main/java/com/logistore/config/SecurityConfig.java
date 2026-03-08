@@ -31,9 +31,12 @@ public class SecurityConfig {
 
                 // Allow all relevant origins
                 configuration.setAllowedOriginPatterns(Arrays.asList(
-                                "https://logistore.tech", // YENİ
-                                "https://www.logistore.tech", // YENİ
-                                "http://logistore.tech", // YENİ
+                                "https://cartelixapp.tech",
+                                "https://www.cartelixapp.tech",
+                                "http://cartelixapp.tech",
+                                "https://logistore.tech",
+                                "https://www.logistore.tech",
+                                "http://logistore.tech",
                                 "https://logistore.live",
                                 "https://www.logistore.live",
                                 "http://logistore.live",
