@@ -40,7 +40,7 @@ public class SecurityConfig {
                                 "https://logistore.live",
                                 "https://www.logistore.live",
                                 "http://logistore.live",
-                                "http://165.22.76.248",
+                                "http://134.122.79.137",
                                 "http://localhost:*",
                                 "http://192.168.*:*",
                                 "http://10.*:*"));
